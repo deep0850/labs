@@ -1,3 +1,5 @@
+//Лабораторна 4
+
 from matplotlib import pyplot as plt
 
 def custom_function(x: float, N: int, alpha: float) -> float:
